@@ -1,0 +1,29 @@
+{
+
+  "contact": "contact\": \"https://discord.gg/zPZ6aVTF",
+
+  "templates": [
+
+    {
+
+      "name": "red",
+
+      "sources": [
+
+        "https://raw.githubusercontent.com/femboy-fish/placebot/main/image.png"
+
+      ],
+
+      "x": 502,
+
+      "y": -306
+
+    }
+
+  ],
+
+  "whitelist": [],
+
+  "blacklist": []
+
+}
